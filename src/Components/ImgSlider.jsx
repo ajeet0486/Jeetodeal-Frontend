@@ -1,13 +1,12 @@
 import React from 'react'
 import { useState, useRef, useEffect } from "react"
+import img1 from "../Images/1.jpg";
+import img2 from "../Images/2.jpg";
+import img3 from "../Images/3.jpg";
+import img4 from "../Images/4.jpg";
 
 export default function ImgSlider() {
-    const images = [
-        "../../public/1.jpg",
-        "../../public/1.jpg",
-        "../../public/1.jpg",
-        "../../public/1.jpg",
-    ];
+    const images = [img1,img2,img3,img4];
     const [currentIndex, setCurrentIndex] = useState(0);
     const intervalRef = useRef(null);
 

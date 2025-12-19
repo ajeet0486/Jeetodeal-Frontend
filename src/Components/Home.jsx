@@ -9,14 +9,13 @@ import { HiOutlineArrowCircleRight } from "react-icons/hi";
 import { HiArrowSmallRight } from "react-icons/hi2";
 import { Link } from "react-router-dom";
 import MenuBottom from "./MenuBottom";
+import img5 from "../Images/5.jpg";
+import img6 from "../Images/6.jpg";
+import img7 from "../Images/7.jpg";
+import img8 from "../Images/8.jpg";
 
 export const Home = () => {
-    const images = [
-        "../../public/5.jpg",
-        "../../public/6.jpg",
-        "../../public/7.jpg",
-        "../../public/8.jpg",
-    ]
+    const images = [img5,img6,img7,img8];
     return (
         <div className="box1" style={styles.box1}>
             <div className="box11" style={{ zIndex: "1", background: "#BBF090", height: "40px", display: "flex", justifyContent: "space-between", position: "sticky", top: "0px" }}>
