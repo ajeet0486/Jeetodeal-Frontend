@@ -1,15 +1,23 @@
 {
   "files": {
     "main.css": "/Jeetodeal-Frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/Jeetodeal-Frontend/static/js/main.5e3cbfdd.js",
+    "main.js": "/Jeetodeal-Frontend/static/js/main.1811a6a8.js",
     "static/js/453.dea6b56a.chunk.js": "/Jeetodeal-Frontend/static/js/453.dea6b56a.chunk.js",
+    "static/media/1.jpg": "/Jeetodeal-Frontend/static/media/1.6db5bfc073fe901882e3.jpg",
+    "static/media/7.jpg": "/Jeetodeal-Frontend/static/media/7.3acfb4e0b49ba685be74.jpg",
+    "static/media/3.jpg": "/Jeetodeal-Frontend/static/media/3.786ddada6ae94fcc15e3.jpg",
+    "static/media/4.jpg": "/Jeetodeal-Frontend/static/media/4.1d4dabeeba97f16d670f.jpg",
+    "static/media/5.jpg": "/Jeetodeal-Frontend/static/media/5.0e601fbbb40cbc18bced.jpg",
+    "static/media/8.jpg": "/Jeetodeal-Frontend/static/media/8.70aab344fa1a8737fdd7.jpg",
+    "static/media/2.jpg": "/Jeetodeal-Frontend/static/media/2.5ec132d3fc6eeff17d2b.jpg",
+    "static/media/6.jpg": "/Jeetodeal-Frontend/static/media/6.7167b9f3941b729aec49.jpg",
     "index.html": "/Jeetodeal-Frontend/index.html",
     "main.e6c13ad2.css.map": "/Jeetodeal-Frontend/static/css/main.e6c13ad2.css.map",
-    "main.5e3cbfdd.js.map": "/Jeetodeal-Frontend/static/js/main.5e3cbfdd.js.map",
+    "main.1811a6a8.js.map": "/Jeetodeal-Frontend/static/js/main.1811a6a8.js.map",
     "453.dea6b56a.chunk.js.map": "/Jeetodeal-Frontend/static/js/453.dea6b56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5e3cbfdd.js"
+    "static/js/main.1811a6a8.js"
   ]
 }
