@@ -14,7 +14,7 @@ export default function MenuBottom() {
                     textDecoration: "none",
                     color: "inherit"
                 }}>
-                    <CiHome style={{ width: "40px", height: "40px" }} />
+                    <CiHome style={{ width: "26px", height: "26px" }} />
                     <p style={{ margin: "0", display: "flex", justifyContent: "center" }}>Home</p>
                 </Link>
 
@@ -24,21 +24,37 @@ export default function MenuBottom() {
                     textDecoration: "none",
                     color: "inherit"
                 }}>
-                    <CiViewList style={{ width: "40px", height: "40px" }} />
+                    <CiViewList style={{ width: "26px", height: "26px" }} />
                     <p style={{ margin: "0", display: "flex", justifyContent: "center" }}>Order</p>
                 </Link>
             </div>
             <div>
-                <div><IoIosAddCircleOutline style={{ width: "40px", height: "40px", }} />
+                <Link to="/upi" style={{
+                    textDecoration: "none",
+                    color: "inherit"
+                }}>
+                    <IoIosAddCircleOutline style={{color:"#27F542", width: "26px", height: "26px" }} />
                     <p style={{ margin: "0", display: "flex", justifyContent: "center" }}>UPI</p>
-                </div>
+                </Link>
             </div>
-            <div><AiOutlineTeam style={{ width: "40px", height: "40px" }} />
-                <p style={{ margin: "0" }}>Team</p></div>
-            <div><VscSave style={{ width: "40px", height: "40px" }} />
-                <p style={{ margin: "0", display: "flex", justifyContent: "center" }}>My</p></div>
-
-
+            <div>
+                <Link to="/team" style={{
+                    textDecoration: "none",
+                    color: "inherit"
+                }}>
+                    <AiOutlineTeam style={{ width: "26px", height: "26px" }} />
+                    <p style={{ margin: "0", display: "flex", justifyContent: "center" }}>Team</p>
+                </Link>
+            </div>
+            <div>
+                <Link to="/my" style={{
+                    textDecoration: "none",
+                    color: "inherit"
+                }}>
+                    <VscSave style={{width: "26px", height: "26px" }} />
+                    <p style={{ margin: "0", display: "flex", justifyContent: "center" }}>My</p>
+                </Link>
+            </div>
         </div>
 
     );

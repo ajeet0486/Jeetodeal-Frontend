@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Floating Card</title>
+  <style>
+    body {
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #f2f4f8;
+      font-family: Arial, sans-serif;
+    }
+
+    .card {
+      width: 300px;
+      padding: 20px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 
+        0 10px 20px rgba(0, 0, 0, 0.15),
+        0 6px 6px rgba(0, 0, 0, 0.10);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-10px);
+      box-shadow: 
+        0 20px 30px rgba(0, 0, 0, 0.2),
+        0 10px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .card h2 {
+      margin: 0 0 10px;
+    }
+
+    .card p {
+      margin: 0;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h2>Floating Card</h2>
+    <p>This card looks like it is floating above the page.</p>
+  </div>
+
+</body>
+</html>
