@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jeetodeal-Frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/Jeetodeal-Frontend/static/js/main.ce95c702.js",
+    "main.js": "/Jeetodeal-Frontend/static/js/main.f5ef13f1.js",
     "static/js/453.dea6b56a.chunk.js": "/Jeetodeal-Frontend/static/js/453.dea6b56a.chunk.js",
     "static/media/8.jpeg": "/Jeetodeal-Frontend/static/media/8.d40090208d1bbda0e52c.jpeg",
     "static/media/3.jpeg": "/Jeetodeal-Frontend/static/media/3.87196c0d8ae460b75e0a.jpeg",
@@ -14,11 +14,11 @@
     "static/media/7.jpeg": "/Jeetodeal-Frontend/static/media/7.8afb665f9a01d6c55919.jpeg",
     "index.html": "/Jeetodeal-Frontend/index.html",
     "main.e6c13ad2.css.map": "/Jeetodeal-Frontend/static/css/main.e6c13ad2.css.map",
-    "main.ce95c702.js.map": "/Jeetodeal-Frontend/static/js/main.ce95c702.js.map",
+    "main.f5ef13f1.js.map": "/Jeetodeal-Frontend/static/js/main.f5ef13f1.js.map",
     "453.dea6b56a.chunk.js.map": "/Jeetodeal-Frontend/static/js/453.dea6b56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ce95c702.js"
+    "static/js/main.f5ef13f1.js"
   ]
 }
