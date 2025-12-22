@@ -1,25 +1,28 @@
 {
   "files": {
     "main.css": "/Jeetodeal-Frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/Jeetodeal-Frontend/static/js/main.00a5b767.js",
+    "main.js": "/Jeetodeal-Frontend/static/js/main.f113389d.js",
     "static/js/453.dea6b56a.chunk.js": "/Jeetodeal-Frontend/static/js/453.dea6b56a.chunk.js",
     "static/media/10.jpeg": "/Jeetodeal-Frontend/static/media/10.0849ef4733f16b162c38.jpeg",
     "static/media/8.jpeg": "/Jeetodeal-Frontend/static/media/8.d40090208d1bbda0e52c.jpeg",
     "static/media/3.jpeg": "/Jeetodeal-Frontend/static/media/3.87196c0d8ae460b75e0a.jpeg",
+    "static/media/12.jpeg": "/Jeetodeal-Frontend/static/media/12.c94947f8de44d2e19dc3.jpeg",
     "static/media/4.jpeg": "/Jeetodeal-Frontend/static/media/4.a02a82ffcb52f6e2003a.jpeg",
     "static/media/9.jpeg": "/Jeetodeal-Frontend/static/media/9.28da083ab82f2322449a.jpeg",
     "static/media/5.jpeg": "/Jeetodeal-Frontend/static/media/5.70d924786d5b75c98e29.jpeg",
     "static/media/2.jpeg": "/Jeetodeal-Frontend/static/media/2.33d0bf595f093e3b90b6.jpeg",
     "static/media/6.jpeg": "/Jeetodeal-Frontend/static/media/6.6437190331b37bea8150.jpeg",
+    "static/media/11.jpeg": "/Jeetodeal-Frontend/static/media/11.2ebc04f9543621af9554.jpeg",
     "static/media/1.jpeg": "/Jeetodeal-Frontend/static/media/1.bd35a3cfcf8952e3cb7d.jpeg",
+    "static/media/13.jpeg": "/Jeetodeal-Frontend/static/media/13.293c337628f052a58b11.jpeg",
     "static/media/7.jpeg": "/Jeetodeal-Frontend/static/media/7.8afb665f9a01d6c55919.jpeg",
     "index.html": "/Jeetodeal-Frontend/index.html",
     "main.e6c13ad2.css.map": "/Jeetodeal-Frontend/static/css/main.e6c13ad2.css.map",
-    "main.00a5b767.js.map": "/Jeetodeal-Frontend/static/js/main.00a5b767.js.map",
+    "main.f113389d.js.map": "/Jeetodeal-Frontend/static/js/main.f113389d.js.map",
     "453.dea6b56a.chunk.js.map": "/Jeetodeal-Frontend/static/js/453.dea6b56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.00a5b767.js"
+    "static/js/main.f113389d.js"
   ]
 }
