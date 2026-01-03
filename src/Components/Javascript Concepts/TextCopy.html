@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<span id="text">Hello World</span>
+<button onclick="copy()">Copy</button>
+
+<script>
+  function copy() {
+    navigator.clipboard.writeText(
+      document.getElementById("text").innerText
+    );
+  }
+</script>
+
+</body>
+</html>

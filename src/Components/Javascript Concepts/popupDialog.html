@@ -1,0 +1,87 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    .overlay{
+      position:fixed;
+      inset:0;
+      background:blue;
+      display:none;
+      align-items:center;
+      justify-content:center;
+    }
+    .inner{
+      background:#fff;
+      padding:20px;
+      border-radius:6px;
+    }
+  </style>
+</head>
+<body>
+  <button onclick="openOver()">Open</button>
+    <div class="overlay" id="overlay">
+      <div class="inner">
+        <button onclick="closeOver()">Close</button>
+      </div>
+    </div>
+
+    <script>
+      function openOver(){
+        overlay.style.display="flex";
+      }
+      function closeOver(){
+        overlay.style.display="none";
+      }
+    </script>
+</body>
+</html>
+ -->
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .overlay{
+      position:fixed;
+      inset:0;
+      background:rgba(0,0,0,.4);
+      display:none;
+      align-items:center;
+      justify-content:center;
+    }
+    .modal{
+      background:#fff;
+      padding:20px;
+      border-radius:6px;
+    }
+  </style>
+</head>
+
+<body>
+
+<button onclick="openModal()">Open</button>
+
+<div class="overlay" id="overlay" onclick="closeModal()">
+  <div class="modal" onclick="event.stopPropagation()">
+    Popup Dialog
+  </div>
+</div>
+
+<script>
+  function openModal(){
+    overlay.style.display="flex";
+  }
+  function closeModal(){
+    overlay.style.display="none";
+  }
+</script>
+
+</body>
+</html>
